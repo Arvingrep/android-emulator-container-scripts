@@ -1,3 +1,4 @@
+参考 https://juejin.cn/post/6844903968485720072
 # Android Emulator Container Scripts
 
 This is a set of minimal scripts to run the emulator in a container for various
